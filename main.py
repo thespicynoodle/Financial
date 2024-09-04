@@ -18,7 +18,7 @@ st.subheader("🔄 Compound Interest Calculator")
 st.write("""
 Discover how your savings can grow over time with the power of compound interest. Use our calculator to see the impact of different interest rates, time periods, and compounding frequencies on your initial investment.
 """)
-st.button("Go to Compound Interest Calculator", key="compound_interest")
+st.markdown("[Go to Compound Interest Calculator](https://financialmutt.streamlit.app/compound_interest)")
 
 # Financial Help Section
 st.subheader("📊 Further Financial Help and Tools")
